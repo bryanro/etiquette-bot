@@ -1,0 +1,21 @@
+{
+    "type": "message",
+    "message": {
+        "type": "message",
+        "user": "U0C6SS0N9",
+        "text": "<!here> parent message",
+        "thread_ts": "1509195448.000118",
+        "reply_count": 1,
+        "replies": [{
+            "user": "U0C6SS0N9",
+            "ts": "1509195448.000118"
+        }],
+        "unread_count": 1,
+        "ts": "1509195448.000118"
+    },
+    "subtype": "message_replied",
+    "hidden": true,
+    "channel": "C2HLLGPT3",
+    "event_ts": "1509195448.000118",
+    "ts": "1509195448.000118"
+}

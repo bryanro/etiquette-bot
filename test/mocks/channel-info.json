@@ -1,0 +1,55 @@
+{
+  "ok": true,
+  "channel": {
+    "id": "C2HLLGPT3",
+    "name": "e-bot-test",
+    "is_channel": true,
+    "created": 1475168709,
+    "creator": "U0ABCS0N9",
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "e-bot-test",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_member": true,
+    "is_private": false,
+    "is_mpim": false,
+    "last_read": "1476814927.000004",
+    "latest": {
+      "type": "message",
+      "user": "U0C6SS0N9",
+      "text": "<!here> test",
+      "ts": "1509195448.000118"
+    },
+    "unread_count": 48,
+    "unread_count_display": 40,
+    "members": [
+      "U5D9RR1J6",
+      "U6JRPR6KX",
+      "U0C6SS0N9"
+    ],
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "previous_names": []
+  },
+  "scopes": [
+    "identify",
+    "read",
+    "post",
+    "client",
+    "apps"
+  ],
+  "acceptedScopes": [
+    "channels:read",
+    "read"
+  ]
+}

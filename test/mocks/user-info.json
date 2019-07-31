@@ -1,0 +1,52 @@
+{
+  "ok": true,
+  "user": {
+    "id": "U0C6SS0N9",
+    "team_id": "T0E6AB0CD",
+    "name": "john",
+    "deleted": false,
+    "color": "9f69e7",
+    "real_name": "john",
+    "tz": "America/Indiana/Indianapolis",
+    "tz_label": "Eastern Daylight Time",
+    "tz_offset": -14400,
+    "profile": {
+      "first_name": "john",
+      "image_24": "https://avatars.slack-edge.com/2015-10-09/12337675922_1967e6f6784a75ef42a1_24.jpg",
+      "image_32": "https://avatars.slack-edge.com/2015-10-09/12337675922_1967e6f6784a75ef42a1_32.jpg",
+      "image_48": "https://avatars.slack-edge.com/2015-10-09/12337675922_1967e6f6784a75ef42a1_48.jpg",
+      "image_72": "https://avatars.slack-edge.com/2015-10-09/12337675922_1967e6f6784a75ef42a1_72.jpg",
+      "image_192": "https://avatars.slack-edge.com/2015-10-09/12337675922_1967e6f6784a75ef42a1_192.jpg",
+      "image_512": "https://avatars.slack-edge.com/2015-10-09/12337675922_1967e6f6784a75ef42a1_192.jpg",
+      "image_1024": "https://avatars.slack-edge.com/2015-10-09/12337675922_1967e6f6784a75ef42a1_192.jpg",
+      "image_original": "https://avatars.slack-edge.com/2015-10-09/12337675922_1967e6f6784a75ef42a1_original.jpg",
+      "avatar_hash": "8297e6f6784a",
+      "status_emoji": ":neckbeard:",
+      "real_name": "john",
+      "display_name": "john",
+      "real_name_normalized": "john",
+      "display_name_normalized": "john",
+      "email": "john.smith@aol.com",
+      "team": "T0E6AB0CD"
+    },
+    "is_admin": false,
+    "is_owner": false,
+    "is_primary_owner": false,
+    "is_restricted": false,
+    "is_ultra_restricted": false,
+    "is_bot": false,
+    "updated": 1504345875,
+    "is_app_user": false
+  },
+  "scopes": [
+    "identify",
+    "read",
+    "post",
+    "client",
+    "apps"
+  ],
+  "acceptedScopes": [
+    "users:read",
+    "read"
+  ]
+}
