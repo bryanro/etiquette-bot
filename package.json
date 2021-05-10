@@ -16,7 +16,7 @@
     "express": "^4.17.1",
     "graphite-tcp": "^1.0.4",
     "install": "0.13.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "moment-timezone": "^0.5.26",
     "npm": "6.10.0",
     "winston": "^3.2.1"
